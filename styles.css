@@ -8,9 +8,7 @@ body{
 
 footer{
     text-align: center;
-    color: black;
-  background-color: red;
-  padding: 20px;
+    padding: 20px;
 }
 
 h1{
@@ -18,7 +16,12 @@ h1{
 }
 
 p{
-    padding: 20px 0px;
-    
+    padding: 20px;
     text-align: justify;
+    border: 3px solid red;
+    border-radius: 20px;
+}
+
+h5{
+    text-align: center;
 }
